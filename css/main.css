@@ -1,0 +1,56 @@
+#content div {
+background-color: #D8E7E7;
+ display : inline-block;
+ width: 11em;
+ height: 15em;
+ border: 2px solid black;
+ position: relative;
+ box-sizing: border-box;
+}
+
+
+#content{
+  background-color: #59A09F;
+  position:relative;
+  left:15em;
+  top:5em;
+  width: 48em;
+  box-sizing: border-box;
+  height: 15em;
+  padding-left:  1em;
+   padding-right: 1em;
+}
+
+ #section_1 {
+font-family: 'Indie Flower', cursive;
+
+}
+#section_2 {
+  font-family: 'IBM Plex Serif', serif;
+  top:1.8em;
+}
+ #section_3 {
+   font-family: 'Indie Flower', cursive;
+
+}
+
+#section_4 {
+  font-family: 'Shadows Into Light', cursive;
+  top: 1em;
+}
+
+
+#section_5 {
+  font-family: 'Indie Flower', cursive;
+}
+
+.text {
+  font-size: 13px;
+  text-align: center;
+  padding:0.5em;
+}
+
+#section_3:hover {
+color: orange;
+font-size: 10px;
+}
